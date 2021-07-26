@@ -71,7 +71,7 @@ img {
   margin-left: -1rem;
   width: 22rem;
   font-size: 1rem;
-  background-color: #2db400;
+  background-color: #03c75a;
   color: white;
   border: none;
   height: 3rem;
@@ -111,7 +111,7 @@ img {
 }
 
 .easy_loginBt button {
-  border: 1px solid #2db400;
+  border: 1px solid #03c75a;
   width: 10.5rem;
   height: 3rem;
   padding: 10px;
